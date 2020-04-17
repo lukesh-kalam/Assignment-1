@@ -1,8 +1,8 @@
 /*
 filename: case4.cpp
 details: Program to perform filehandling in 'notes.ini' file
-author: J.P.Prakash
-date: 10/04/2020
+author: K.Lukesh Kumar
+date: 15/04/2020
 */
 #include<iostream>
 #include<string.h>
